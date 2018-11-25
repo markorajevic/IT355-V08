@@ -1,0 +1,7 @@
+com\metropolitan\spring\dao\UserDaoImp.class
+com\metropolitan\spring\service\UserService.class
+com\metropolitan\spring\service\UserServiceImp.class
+com\metropolitan\spring\config\AppConfig.class
+com\metropolitan\spring\dao\UserDao.class
+com\metropolitan\spring\MainApp.class
+com\metropolitan\spring\entity\User.class
